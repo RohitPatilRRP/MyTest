@@ -1,0 +1,4 @@
+[2020-03-10T20:52:08.294] [DEBUG] default - I will be logged in all-the-logs.log
+[2020-03-10T20:52:08.296] [ERROR] noisy.component - I will  be logged.
+[2020-03-10T21:03:55.516] [DEBUG] default - I will be logged in all-the-logs.log
+[2020-03-10T21:03:55.518] [ERROR] noisy.component - I will  be logged.
